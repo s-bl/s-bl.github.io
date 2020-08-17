@@ -17,3 +17,13 @@
 .about {
   text-align: center;
 }
+
+.content-wrapper {
+  width: auto;
+  max-width: none;
+}
+
+.content-wrapper__inner {
+  margin: 0 5%;
+}
+
